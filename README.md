@@ -6,7 +6,7 @@ A web scrapper for the prices of metal at the Catty Scrap scrap yard in Catasauq
 Installation
 ---
 
-Install Racket by following the instruction on [](https://racket-lang.org/) or
+Install Racket by following the instruction on [https://racket-lang.org/]() or
 using your Linux distro's package manager.
 
 Install additional required packages for this script:
@@ -28,4 +28,4 @@ webscraperhelp was helpful in figuring out what to do but not necessary for the 
 
     raco pkg install webscraperhelper
 
-It's documented here [](https://pkgs.racket-lang.org/package/webscraperhelper)
+It's documented here [https://pkgs.racket-lang.org/package/webscraperhelper]()
